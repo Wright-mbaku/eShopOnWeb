@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-dev
   LOCATION: northeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/33be28ac-0bb1-4f8a-9e83-462f782385f4
+  SUBSCRIPTION-ID: 33be28ac-0bb1-4f8a-9e83-462f782385f4
   WEBAPP-NAME: eshoponweb-webapp-dev-njf-01
 
 jobs:
